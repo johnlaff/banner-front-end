@@ -29,7 +29,8 @@ body {
     font-family: "Montserrat", sans-serif;
     font-size: 24px;
     font-weight: 600;
-    color: #22D4FD
+    color: #22D4FD;
+    text-decoration: none;
 }
 
 .apresentacao {
