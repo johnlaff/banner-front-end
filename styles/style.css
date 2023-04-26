@@ -19,7 +19,7 @@ body {
     box-sizing: border-box;
     background-color: var(--cor-primaria);
     font-family: 'Open Sans', sans-serif;
-    font-size: 16px;
+    font-size: 1rem;
     line-height: 1.5;
     color: var(--cor-secundaria);
     margin: 0;
@@ -37,7 +37,7 @@ body {
 
 .cabecalho__menu__link {
     font-family: var(--fonte-secundaria);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     color: var(--cor-terciaria);
     text-decoration: none;
@@ -58,7 +58,7 @@ body {
 }
 
 .apresentacao__conteudo__titulo {
-        font-size: 36px;
+        font-size: 2.25rem;
         font-family: var(--fonte-primaria);
 }
 
@@ -67,7 +67,7 @@ body {
 }
 
 .apresentacao__conteudo__texto {
-    font-size: 24px;
+    font-size: 1.5rem;
     font-family: var(--fonte-secundaria);
 }
 
@@ -82,7 +82,7 @@ body {
 .apresentacao__links__subtitulo {
     font-family: var(--fonte-primaria);
     font-weight: 400;
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 
 .apresentacao__links__link {
@@ -93,7 +93,7 @@ body {
     width: 378px;
     text-align: center;
     border-radius: 16px;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     padding: 21.5px 0;
     text-decoration: none;
@@ -111,6 +111,6 @@ body {
     background-color: var(--cor-terciaria);
     text-align: center;
     font-family: var(--fonte-secundaria);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 400;
 }
